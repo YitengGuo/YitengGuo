@@ -23,32 +23,11 @@
 
 > *"Pursuing excellence in underwater vision, one detection at a time."*
 
-- 🎓 **Master's Student** at **Henan Institute of Science and Technology** (河南科技学院)
+- 🎓 **Master's Student** at **Henan Institute of Science and Technology** 
 - 🌊 Passionate about exploring the mysteries beneath the surface through computer vision
 
 </div>
 
-
-
-## 📦 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/YitengGuo/MFPD">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YitengGuo&repo=MFPD&theme=radical&show_owner=true" alt="MFPD">
-  </a>
-  <a href="https://github.com/YitengGuo/MIP-Net">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YitengGuo&repo=MIP-Net&theme=radical&show_owner=true" alt="MIP-Net">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YitengGuo/RHCNet">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YitengGuo&repo=RHCNet&theme=radical&show_owner=true" alt="RHCNet">
-  </a>
-  <a href="https://github.com/YitengGuo/SSDAL-Net">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YitengGuo&repo=SSDAL-Net&theme=radical&show_owner=true" alt="SSDAL-Net">
-  </a>
-</p>
 
 
 ## 📧 Contact Me
