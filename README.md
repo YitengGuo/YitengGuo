@@ -26,10 +26,13 @@
 
 ### 🌊 About Me
 
+
 > *"Pursuing excellence in underwater vision, one detection at a time."*
 
-- 🎓 **Master's Student** at **Henan Institute of Science and Technology** 
+- 🎓 **Master's Student** at **Henan Institute of Science and Technology**
 - 🌊 Passionate about exploring the mysteries beneath the surface through computer vision
+- 🌐 Check out my [academic homepage](https://yitengguo.github.io/) for more details!
+
 
 </div>
 
