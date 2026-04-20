@@ -1,10 +1,7 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/YitengGuo/YitengGuo/main/assets/wave-banner.svg" alt="Wave Banner">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:4ECDC4&height=200&section=header&text=Yiteng%20Guo&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Banner">
 </p>
 
-<p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&background=transparent&center=true&width=700&height=80&lines=Welcome+👋+%7C+Yiteng+Guo+%7C+Researcher" alt="Typing Effect">
-</p>
 
 ---
 
