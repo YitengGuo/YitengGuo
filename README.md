@@ -1,6 +1,7 @@
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&width=800&height=100&lines=Welcome+to+my+Profile" alt="Typing Effect">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FF6B6B&center=true&width=800&height=60&lines=Underwater+Object+Detection+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing Effect 2">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&width=800&height=100&lines=👋+Hello+World" alt="Typing">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=4ECDC4&center=true&width=800&height=60&lines=🔬+Researching+Underwater+Vision" alt="Typing 2">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=FF6B6B&center=true&width=800&height=60&lines=🌊+Deep+Learning+Enthusiast" alt="Typing 3">
 </p>
 
 
