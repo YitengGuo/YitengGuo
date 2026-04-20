@@ -40,41 +40,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitengGuo&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
----
-
-## 🛠️ Tech Stack & Skills
-
-### Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-</p>
-
-### Deep Learning Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-</p>
-
-### Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-</p>
-
-### Research Areas
-<p align="center">
-  <img src="https://img.shields.io/badge/Object%20Detection-FF9F1C?style=for-the-badge&logo=target&logoColor=white" alt="Object Detection">
-  <img src="https://img.shields.io/badge/Image%20Segmentation-2EC4B6?style=for-the-badge&logoColor=white" alt="Image Segmentation">
-  <img src="https://img.shields.io/badge/UW%20Image%20Enhancement-CB8DD9?style=for-the-badge&logoColor=white" alt="UW Image Enhancement">
-</p>
-
----
 
 ## 📦 Featured Repositories
 
