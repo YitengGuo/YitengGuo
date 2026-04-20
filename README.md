@@ -63,7 +63,11 @@
   <a href="https://github.com/YitengGuo">
     <img src="https://img.shields.io/badge/GitHub-YitengGuo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://orcid.org/0009-0009-3465-7709">
+    <img src="https://img.shields.io/badge/ORCID-0009--0009--3465--7709-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
 </p>
+
 
 ---
 
