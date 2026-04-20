@@ -8,6 +8,8 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=YitengGuo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--3465--7709-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-3465-7709)
+
 </p>
 
 <div align="center">
