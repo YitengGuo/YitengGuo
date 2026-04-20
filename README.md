@@ -23,8 +23,6 @@
 > *"Pursuing excellence in underwater vision, one detection at a time."*
 
 - 🎓 **Master's Student** at **Henan Institute of Science and Technology** (河南科技学院)
-- 🔭 Currently working on **MIP-Net**: Multi-scale Integration Perception Network for underwater object detection
-- 📝 Paper submitted to **CAS Journal** | Another paper submitted to **The Visual Computer** (with collaborators from Xinxiang University)
 - 🌊 Passionate about exploring the mysteries beneath the surface through computer vision
 
 </div>
@@ -98,16 +96,6 @@
   </a>
 </p>
 
----
-
-## 📝 Publications
-
-| Status | Paper | Venue |
-|:------:|:------|:------|
-| 🔍 Under Review | **MIP-Net: Multi-scale Integration Perception Network for Underwater Object Detection** | CAS Journal |
-| 🔍 Under Review | Collaborative Research on Underwater Visual Computing | The Visual Computer |
-
----
 
 ## 📧 Contact Me
 
