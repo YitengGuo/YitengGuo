@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:4ECDC4&height=200&section=header&text=Yiteng%20Guo&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Banner">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:4ECDC4&height=200&section=header&text=Thank%20You%20For%20Your%20Visit&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Banner">
 </p>
+
 
 
 
