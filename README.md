@@ -27,18 +27,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YitengGuo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="YitengGuo's GitHub Stats">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YitengGuo&theme=radical" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitengGuo&layout=compact&theme=radical" alt="Top Languages">
-</p>
 
 
 ## 📦 Featured Repositories
