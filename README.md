@@ -1,6 +1,8 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/YitengGuo/YitengGuo/main/banner.svg" alt="Banner">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&width=800&height=100&lines=Welcome+to+my+Profile" alt="Typing Effect">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FF6B6B&center=true&width=800&height=60&lines=Underwater+Object+Detection+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing Effect 2">
 </p>
+
 
 
 
