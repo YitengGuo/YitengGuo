@@ -1,6 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&width=800&height=100&lines=Thank+You+For+Your+Visit" alt="Thank You For Your Visit">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&width=800&height=100&lines=👋+Hello+World" alt="Typing">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=4ECDC4&center=true&width=800&height=60&lines=🔬+Researching+Underwater+Vision" alt="Typing 2">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=FF6B6B&center=true&width=800&height=60&lines=🌊+Deep+Learning+Enthusiast" alt="Typing 3">
 </p>
+
 
 ---
 
