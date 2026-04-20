@@ -48,12 +48,4 @@
 </p>
 
 
----
 
-<div align="center">
-
-### 🌟 Thanks for visiting! 🌟
-
-*Made with ❤️ and ☕*
-
-</div>
